@@ -35,7 +35,7 @@
 
 ```bash
 git clone <仓库地址>
-cd aTouyiao
+cd aToutiao
 
 # 创建虚拟环境
 python -m venv .venv
