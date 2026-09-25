@@ -81,7 +81,7 @@ set UNSPLASH_KEY=xxxx               # 可选：配图来源
 ## 项目结构
 
 ```
-aTouyiao/
+aToutiao/
 ├── toutiao.py           # 工作流主程序（全部模块）
 ├── run.bat              # 一键运行
 ├── cookie_setup.bat     # Cookie 获取工具
