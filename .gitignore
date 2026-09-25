@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 敏感数据（账号 Cookie，绝不入库）
+cookies/
+
+# 本地生成数据
+vector_db/
+
+# 编辑器
+.idea/
+.vscode/
+
+# 日志
+*.log
+
+# bat 脚本执行残留的错误命名文件
+Intl.DateTimeFormat*
+navigator.*
